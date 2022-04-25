@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/React-deploy/static/css/main.fd50f5ea.css",
+    "main.js": "/React-deploy/static/js/main.af31e4ec.js",
+    "static/media/drawers.jpg": "/React-deploy/static/media/drawers.631135b079e9f19bada8.jpg",
+    "static/media/icon-pinterest.svg": "/React-deploy/static/media/icon-pinterest.45264b1d1cdf7f0c420d573853779f7b.svg",
+    "index.html": "/React-deploy/index.html",
+    "static/media/icon-twitter.svg": "/React-deploy/static/media/icon-twitter.45735e3b0e1132259059ab811589d1e7.svg",
+    "static/media/icon-facebook.svg": "/React-deploy/static/media/icon-facebook.1e9b33385e6dfe7a61acbff13373209c.svg",
+    "static/media/icon-share.svg": "/React-deploy/static/media/icon-share.890102fe1500a6fba9a76d1b384684d2.svg",
+    "main.fd50f5ea.css.map": "/React-deploy/static/css/main.fd50f5ea.css.map",
+    "main.af31e4ec.js.map": "/React-deploy/static/js/main.af31e4ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd50f5ea.css",
+    "static/js/main.af31e4ec.js"
+  ]
+}
